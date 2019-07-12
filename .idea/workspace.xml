@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5d8326e-dcfd-49d9-950b-01f5885adfea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChangeGear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HondaCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VehicleFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpringProjects/src/main/java/com/stackroute/domain/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpringProjects/src/main/java/com/stackroute/domain/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySpringProjects/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/DataModelling1/src/main/java/com/stackroute/insurance/Claim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/DataModelling1/src/main/java/com/stackroute/insurance/ClaimManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/DataModelling1/src/main/java/com/stackroute/insurance/HealthInsuranceSurveyor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/DataModelling1/src/main/java/com/stackroute/insurance/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/LambdaExercise/src/main/java/com/stackroute/lambda1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/LambdaExercise/src/main/java/com/stackroute/lambda1/LambdaDemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/src/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/src/com/stackroute/ioc/Airtel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/src/com/stackroute/ioc/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/src/com/stackroute/ioc/Sim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/src/com/stackroute/ioc/Vodaphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/SpringIOC/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/EvenNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/ReadContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/java/com/stackroute/p2/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/EvenNumTestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/MemberVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/PallindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/PowerOfFourTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/ReadContentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignment2/src/main/test/com/stackroute/p2/StudentGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/.idea/libraries/hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/DetermineInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/GuessNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/IntegerCheckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/PatternTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/RepeatStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/ScanNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/SortAndSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/assignmentp1/src/main/test/com/stackroute/p1/VowelConsonantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/VowelRemove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/chessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/consecutiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/dateDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/negativeArrayExp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/java/com/stackroute/p3/tryCatchFinally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/test/com/stackroute/p3/StudentMarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/test/com/stackroute/p3/VowelRemoveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/test/com/stackroute/p3/chessBoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/test/com/stackroute/p3/consecutiveNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise3/src/main/test/com/stackroute/p3/dateDayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/FindHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/FrequencyOfChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/MatcherString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/SortStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/java/com/stackroute/p4/TransposeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/FindHarryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/FrequencyOfCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/MatcherStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/ReplaceStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/SortStringsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise4/src/main/test/com/stackroute/p4/TransposeStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/exercise5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/src/main/java/com/stackroute/p5/ArrayListUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/src/main/java/com/stackroute/p5/FrequencyCountWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/src/main/test/com/stackroute/p5/ArrayListUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Test Assignment/exercise5/src/main/test/com/stackroute/p5/FrequencyCountWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html5-boilerplate/css/first.css" beforeDir="false" afterPath="$PROJECT_DIR$/../html5-boilerplate/css/first.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html5-boilerplate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html5-boilerplate/index.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#492#493#0" expanded="true" />
+                <element signature="e#534#535#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+              <folding>
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#166#167#0" expanded="true" />
+                <element signature="e#200#201#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HondaCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+                <element signature="e#215#216#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#518#519#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChangeGear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VehicleFunctions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/VehicleFunctions.java" />
+        <option value="$PROJECT_DIR$/src/ChangeGear.java" />
+        <option value="$PROJECT_DIR$/src/Car.java" />
+        <option value="$PROJECT_DIR$/src/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/HondaCar.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="664" />
+    <option name="y" value="30" />
+    <option name="width" value="936" />
+    <option name="height" value="869" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="OopsHackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hackathon" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OopsHackathon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5d8326e-dcfd-49d9-950b-01f5885adfea" name="Default Changelist" comment="" />
+      <created>1562929757751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562929757751</updated>
+      <workItem from="1562929759786" duration="3327000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3327000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1600" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3288948" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#492#493#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HondaCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChangeGear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VehicleFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" lean-forward="true" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
